@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyFavorite</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="text1">Film</string>
+    <string name="text2">Acara TV</string>
+
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="snackbar">Tidak ada list favorit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

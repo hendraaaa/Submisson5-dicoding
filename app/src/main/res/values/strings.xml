@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Submission5</string>
+    <string name="title_home">Rumah</string>
+    <string name="title_dashboard">Dasbor</string>
+    <string name="title_favorite">Favorit</string>
+
+
+    <string name="detail">Detail</string>
+    <string name="text1">Film</string>
+    <string name="text2">Acara TV</string>
+
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Tanggal Rilis</string>
+
+
+    <string name="key_lang">key_lang</string>
+    <string name="summary_lang">Pilih Bahasa</string>
+    <string name="lang">Bahasa</string>
+    <string name="lang_title">Bahasa</string>
+    <string name="pref_title_notifications">Notifikasi</string>
+    <string name="key_today_reminder">key_today_reminder</string>
+    <string name="summary_daily_reminder">Kamu akan menerima pengingat harian setiap jam 7 pagi</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="key_release_reminder">key_release_reminder</string>
+    <string name="summary_release_reminder">Kamu akan menerima informasi rilis film harian setiap jam 8 pagi</string>
+    <string name="release_reminder">Pengingat Film Baru</string>
+    <string name="judul_daily">Apa yang baru?</string>
+    <string name="desk_daily">Cek film ter-update!</string>
+    <string name="message_rilis_new">Pengingat Film Baru</string>
+
+    <string name="timeDaily">07:00</string>
+    <string name="timeRilis">08:00</string>
+
+    <string name="daily_message">Daily Notification</string>
+    <string name="daily_none">TodayRilis</string>
+    <string name="tambah">Film ditambahkan</string>
+    <string name="hapus">Film diHapus</string>
+    <string name="snackbar">Tidak ada favorit dalam list</string>
+    <string name="messageNotif">Repeating alarm dibatalkan id: </string>
+
+
+</resources>

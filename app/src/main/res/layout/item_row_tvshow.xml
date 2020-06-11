@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="1.5dp"
+    app:cardMaxElevation="1.5dp"
+    android:layout_margin="4dp"
+    app:cardBackgroundColor="@android:color/white"
+    app:cardCornerRadius="2dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?selectableItemBackground">
+
+        <FrameLayout
+            android:id="@+id/frame1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_placeholder"
+                android:id="@+id/img_posterTvShow"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="#46000000">
+                <ImageView
+                    android:layout_width="21dp"
+                    android:layout_height="21dp"
+                    android:src="@drawable/ic_star"
+                    android:contentDescription="Description"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tv_ratingTvShow"
+                    android:text="@string/rating"
+                    android:textColor="@android:color/white"
+                    android:gravity="center"
+                    android:textSize="14sp"/>
+
+            </LinearLayout>
+        </FrameLayout>
+        <TextView
+            android:id="@+id/tvTitleTvShow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/frame1"
+            android:text="@string/judul"
+            android:textColor="#000"
+            android:gravity="center"
+            android:textSize="18sp"/>
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Submission5</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="detail">Details</string>
+    <string name="text1">Movie</string>
+    <string name="text2">Tv Show</string>
+
+    <string name="judul">Title</string>
+    <string name="deskripsi">Overview</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">date release</string>
+
+
+    <string name="key_lang">key_lang</string>
+    <string name="summary_lang">choose language</string>
+    <string name="lang">Language</string>
+    <string name="lang_title">Language</string>
+    <string name="pref_title_notifications">Notification</string>
+    <string name="key_today_reminder">key_today_reminder</string>
+    <string name="summary_daily_reminder">You will receive daily reminders at 7 am</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="key_release_reminder">key_release_reminder</string>
+    <string name="summary_release_reminder">You will receive daily movie release information every 8 am</string>
+    <string name="release_reminder">New Movie Reminder</string>
+    <string name="judul_daily">what is new?</string>
+    <string name="desk_daily">Check for updated movies!</string>
+    <string name="message_rilis_new">New Movie Reminder</string>
+
+    <string name="timeDaily">07:00</string>
+    <string name="timeRilis">08:00</string>
+
+    <string name="daily_message">Daily Notification</string>
+    <string name="daily_none">TodayRilis</string>
+    <string name="tambah">Film to add</string>
+    <string name="hapus">Film deleted</string>
+    <string name="snackbar">No favorite to list</string>
+    <string name="messageNotif">Repeating alarm in cancel id: </string>
+</resources>
